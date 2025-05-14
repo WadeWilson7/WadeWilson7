@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=header"/>
 
 <div>
-<p> <img src="https://komarev.com/ghpvc/?username=WadeWilson7&label=Profile%20views&color=0e75b6&style=flat&abbreviated=true" alt="WadeWilson7" /> </p>
+<p> <img src="https://komarev.com/ghpvc/?username=WadeWilson7&label=Profile%20views&color=0e75b6&style=flat&abbreviated=false" alt="WadeWilson7" /> </p>
 
 </div>
 
