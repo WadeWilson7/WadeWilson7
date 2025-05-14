@@ -28,7 +28,7 @@
       <br>Linkedin
     </td>
     <td align="center" widht=90>
-        <a href="https://x.com/PrathamGup31539" target="_blank">
+        <a href="https://x.com/WadeWilson71" target="_blank">
             <img src="https://skillicons.dev/icons?i=twitter" />
         </a>
         <br>Twitter
