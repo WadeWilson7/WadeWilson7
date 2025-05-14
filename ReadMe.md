@@ -1,18 +1,149 @@
-# 💫 About Me:
-🔭 I’m currently working on AI-ML projects<br>👯 I’m looking to collaborate on Computer Vision and LLMs based projects<br>🌱 I’m currently learning DSA<br>💬 Ask me about anything<br>⚡ Fun fact: I am a marvel and Batman fan
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=header"/>
 
+<div>
+<p> <img src="https://komarev.com/ghpvc/?username=WadeWilson7&label=Profile%20views&color=0e75b6&style=flat&abbreviated=true" alt="WadeWilson7" /> </p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pratham-gupta-80bb08223/) 
+</div>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=WadeWilson7&theme=dark&hide_border=false&include_all_commits=false&count_private=false&cache_seconds=1800)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=WadeWilson7&theme=dark&hide_border=false&cache_seconds=1800)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=WadeWilson7&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&cache_seconds=1800)
+<h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/pratham-gupta-80bb08223/">Pratham Gupta</a> <img height="40" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h1>
 
----
-[![](https://visitcount.itsvg.in/api?id=WadeWilson7&icon=0&color=0)](https://visitcount.itsvg.in)
+<br /> 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Asia-Australia.png" alt="Globe Showing the indian pacific" width="30" align="center" />Actively contributing since **2024** 🇮🇳 
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="30" align="center" /> I'm a **Student** at **Indian Institute of Technology Kharagpur**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" align=center /> I’m currently working on **Software Development in C++**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="30" align=center /> I’m currently learning **Machine Learning** & **Deep Learning**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="30" align=center /> I’m eager to collaborate with **Creative Minds** & **Talented Developers**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gem%20Stone.png" alt="Gem Stone" width="30" align=center /> **2025 Goals:** Learn **Artificial intelligence** & **Game Development**
+<!-- - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="30" align=center /> **Ranked 130th** in **GirlScript Summer of Code** (GSSoC'24) -->
+
+<h1><img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="90px" style="max-width: 100%; user-select: auto;">Let's Connect! </h1>
+
+<table align="" class="table table-dark">
+  <tr bg-dark>
+    <td align="center" widht=90>
+        <a href="https://www.linkedin.com/in/pratham-gupta-80bb08223/" target="_blank">
+            <img src="https://skillicons.dev/icons?i=linkedin" />
+        </a>
+      <br>Linkedin
+    </td>
+    <td align="center" widht=90>
+        <a href="https://x.com/PrathamGup31539" target="_blank">
+            <img src="https://skillicons.dev/icons?i=twitter" />
+        </a>
+        <br>Twitter
+    </td>
+  </tr>
+</table>
+ 
+<h1><img src="https://media.tenor.com/Pnb_hVWq2sgAAAAj/on-process-dig.gif" width="53" height="53"/>Tools & Technology </h1>
+
+<table align="center" class="table table-dark">
+<!--   <tr bg-dark>
+<!--    <td align="center" widht="90">
+      <img src="https://skillicons.dev/icons?i=flutter" alt="icon" width="55" height="55" />
+      <br>Flutter
+    </td>
+    <td align="center" widht="90">
+      <img src="https://skillicons.dev/icons?i=js" alt="icon" width="55" height="55" />
+      <br>Javascript
+    </td> -->
+<!--     <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=ts" alt="icon" width="55" height="55" />
+      <br>Typescript
+    </td>
+    <td align="center" widht="90">
+      <img src="https://skillicons.dev/icons?i=react" alt="icon" width="55" height="55" />
+      <br>React Js
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=nextjs" alt="icon" width="55" height="55" />
+      <br>Next Js
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=threejs" width="55" height="55" alt="icon" />
+      <br>Three Js
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=nodejs" alt="icon" width="55" height="55" />
+      <br>Node Js
+    </td>
+   <td align="center" widht="90">
+      <img src="https://skillicons.dev/icons?i=express" alt="icon" width="55" height="55" />
+      <br>Express -->
+<!--     </td>
+   <td align="center" widht="90">
+      <img src="https://skillicons.dev/icons?i=mysql" alt="icon" width="55" height="55" />
+      <br>MySQL
+    </td>
+  </tr> --> -->
+  <tr>
+     <td align="center" widht=90>
+      <img src="https://skillicons.dev/icons?i=cpp" alt="icon" width="55" height="55" />
+      <br>C++
+     </td>
+     <td align="center" widht=90>
+      <img src="https://skillicons.dev/icons?i=py" alt="icon" width="55" height="55" />
+      <br>Python
+     </td>
+     <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=tensorflow" alt="icon" width="55" height="55" />
+      <br>Tensorflow
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=pytorch" alt="icon" width="55" height="55" />
+      <br>Pytorch
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=opencv" alt="icon" width="55" height="55" />
+      <br>OpenCV
+    </td>
+    <td align="center" widht="90">
+      <img src="https://skillicons.dev/icons?i=django" alt="icon" width="55" height="55" />
+      <br>Django
+    </td>
+<!--     <td align="center" widht=90>
+      <img src="https://skillicons.dev/icons?i=linux" alt="icon" width="55" height="55" />
+      <br>Linux
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=md" width="55" height="55" alt="linux" />
+      <br>Doc's
+    </td> -->
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=git" width="55" height="55" alt="md" />
+      <br>Git
+    </td>
+  </tr>
+</table>
+  
+ <h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="53" height="53" align="center" />GitHub Stats </h1>
+ 
+
+  
+
+<div align="center">
+
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WadeWilson7&theme=highcontrast">
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=WadeWilson7&theme=highcontrast">
+<img height="168em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=WadeWilson7&hide=HTML,css,scss,cmake&langs_count=8&layout=compact&theme=highcontrast&border_radius=10&size_weight=0.5&count_weight=0.5&hide_border=true&exclude_repo=github-readme-stats" alt="top langs" /> 
+<img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=WadeWilson7&theme=highcontrast">
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WadeWilson7&hide=HTML,css,scss,cmake&layout=donut&theme=highcontrast&hide_border=true" />
+<img height="166em" src="https://github-readme-stats.vercel.app/api?username=WadeWilson7&show_icons=true&hide_border=true&theme=highcontrast&count_private=true" />
+<img height="166em" src="https://github-readme-streak-stats.herokuapp.com/?user=WadeWilson7&theme=highcontrast&hide_border=true" />
+
+</div><br>
+
+<hr />
+
+<p align="center">
+  <b>Thanks for your visit to my profile! If you appreciate my work, consider buying me a coffee. 😊</b>
+</p>
+
+<p align="center">
+  <a href="https://buymeacoffee.com/vaibhavKesarwani" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="160"/>
+  </a>
+</p>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer"/>
