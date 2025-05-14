@@ -134,13 +134,7 @@
 <hr />
 
 <p align="center">
-  <b>Thanks for your visit to my profile! If you appreciate my work, consider buying me a coffee. 😊</b>
-</p>
-
-<p align="center">
-  <a href="https://buymeacoffee.com/vaibhavKesarwani" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="160"/>
-  </a>
+  <b>Thank you for visiting my github! 😊</b>
 </p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer"/>
