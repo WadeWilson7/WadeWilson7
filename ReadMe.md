@@ -125,9 +125,6 @@
 <div align="center">
 
 <img height="158em" src="[https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WadeWilson7&theme=highcontrast](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WadeWilson7&theme=gruvbox)">
-<img height="158em" src="[https://github-profile-summary-cards.vercel.app/api/cards/stats?username=WadeWilson7&theme=highcontrast](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WadeWilson7&theme=gruvbox)">
-<img height="168em" src="[https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=WadeWilson7&hide=HTML,css,scss,cmake&langs_count=8&layout=compact&theme=highcontrast&border_radius=10&size_weight=0.5&count_weight=0.5&hide_border=true&exclude_repo=github-readme-stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=WadeWilson7&theme=gruvbox)" alt="top langs" /> 
-<img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=WadeWilson7&theme=highcontrast">
 <img height="165em" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=WadeWilson7&hide=HTML,css,scss,cmake&layout=donut&theme=highcontrast&hide_border=true](https://github-readme-streak-stats.herokuapp.com?user=WadeWilson7&theme=gruvbox)" />
 <img height="166em" src="https://github-readme-stats.vercel.app/api?username=WadeWilson7&show_icons=true&hide_border=true&theme=highcontrast&count_private=true" />
 <img height="166em" src="https://github-readme-streak-stats.herokuapp.com/?user=WadeWilson7&theme=highcontrast&hide_border=true" />
