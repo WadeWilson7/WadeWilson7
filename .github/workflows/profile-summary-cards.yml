@@ -19,4 +19,4 @@ build:
       env:
         GITHUB_TOKEN: ${{ secrets.summary_card_token }}
       with:
-        USERNAME: ${{ WadeWilson7 }}
+        USERNAME: ${{ github.repository_owner }}
