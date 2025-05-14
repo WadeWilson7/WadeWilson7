@@ -124,10 +124,7 @@
 
 <div align="center">
 
-<img height="158em" src="[https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WadeWilson7&theme=highcontrast](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WadeWilson7&theme=gruvbox)">
-<img height="165em" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=WadeWilson7&hide=HTML,css,scss,cmake&layout=donut&theme=highcontrast&hide_border=true](https://github-readme-streak-stats.herokuapp.com?user=WadeWilson7&theme=gruvbox)" />
-<img height="166em" src="https://github-readme-stats.vercel.app/api?username=WadeWilson7&show_icons=true&hide_border=true&theme=highcontrast&count_private=true" />
-<img height="166em" src="https://github-readme-streak-stats.herokuapp.com/?user=WadeWilson7&theme=highcontrast&hide_border=true" />
+<img height="158em" src="https://github-readme-stats.vercel.app/api?username=WadeWilson7&&show_icons=true&theme=radical&count_private=true&include_all_commits=true">
 
 </div><br>
 
