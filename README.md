@@ -34,4 +34,4 @@ I care about **fundamentals**, **systems thinking**, and **writing code that sca
 
 ---
 
-> _“In a world of Batmans, I like to be an Iron Man"_
+> _“Achieving State of the Art ❤️"_
