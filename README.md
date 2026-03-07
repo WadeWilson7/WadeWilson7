@@ -1,37 +1,56 @@
-# Hi, I'm PG 👋
+# Hi! I am PG  
 
-Engineering student who builds things by understanding them.
+I am currently focused on building practical systems in **AI Engineering**, with an emphasis on understanding how modern AI applications are built: retrieval pipelines, tool-using agents, and backend systems that serve models reliably.
 
-I care about **fundamentals**, **systems thinking**, and **writing code that scales beyond toy problems**.
-
----
-
-## 🔧 What I work with
-- **Languages:** Python, JavaScript  
-- **Core concepts:** Data structures, Neural Nets
-- **Interests:** AI Agents, Machine Learning
+The goal is to understand the **engineering layer around AI models** — data ingestion, vector search, orchestration, and production infrastructure.
 
 ---
 
-## 🧠 Philosophy
-- Depth > breadth  
-- Code is a tool, not an identity  
-- If I can’t explain it simply, I don’t understand it yet  
+## Tech Stack
+
+| Category | Tools / Technologies |
+|---|---|
+| Primary Language | Python |
+| AI / LLM Frameworks | OpenAI API, LangChain |
+| Retrieval Systems | Vector Databases, RAG pipelines |
+| Data Processing | Pandas, NumPy |
+| Backend | FastAPI |
+| Model Serving | Ollama |
+| Developer Tools | Git, GitHub, VSCode |
+| Environment Management | uv, venv |
 
 ---
 
-## 📂 What you’ll find here
-- Small but **well-thought-out projects**
-- Experiments that focus on **how things work under the hood**
-- Code written to be **read**, not just executed
+## Learning Roadmap
+
+| Phase | Focus | Status |
+|---|---|---|
+| Phase 1 | Python for backend & AI systems | In Progress |
+| Phase 2 | Retrieval-Augmented Generation (RAG) systems | In Progress |
+| Phase 3 | AI agents & tool-calling architectures | Planned |
+| Phase 4 | Production AI services & backend APIs | Planned |
 
 ---
 
-## 📈 Currently improving
-- Writing safer and faster systems
-- Reading other people’s code (the underrated skill)
-- Turning ideas into maintainable software
+## Projects
+
+| Project | Description | Status |
+|---|---|---|
+| PDF RAG Bot | Converts PDFs into embeddings and enables semantic Q&A over documents | In Progress |
+| Agent Workflow Experiments | Exploring multi-step reasoning pipelines with tool usage | Planned |
+| AI API Backend | Backend service for deploying AI pipelines | Planned |
 
 ---
 
-> _“Achieving State of the Art ❤️"_
+## Current Focus
+
+- Building **RAG pipelines**
+- Understanding **vector search and embedding retrieval**
+- Experimenting with **agentic workflows**
+- Developing **backend systems for AI applications**
+
+---
+
+## Philosophy
+
+Achieving State of the Art ❤️
