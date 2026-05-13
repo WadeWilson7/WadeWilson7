@@ -10,14 +10,14 @@ The goal is to understand the **engineering layer around AI models** — data in
 
 | Category | Tools / Technologies |
 |---|---|
-| Primary Language | Python |
-| AI / LLM Frameworks | OpenAI API, LangChain |
+| Primary Language | Javascript |
+| AI / LLM Frameworks | OpenAI API, LangChain, Langgraph |
 | Retrieval Systems | Vector Databases, RAG pipelines |
 | Data Processing | Pandas, NumPy |
-| Backend | FastAPI |
+| Backend | ExpressJS/NodeJS |
 | Model Serving | Ollama |
 | Developer Tools | Git, GitHub, VSCode |
-| Environment Management | uv, venv |
+| Environment Management | uv, venv (For python environments) |
 
 ---
 
@@ -25,10 +25,10 @@ The goal is to understand the **engineering layer around AI models** — data in
 
 | Phase | Focus | Status |
 |---|---|---|
-| Phase 1 | Python for backend & AI systems | In Progress |
-| Phase 2 | Retrieval-Augmented Generation (RAG) systems | In Progress |
-| Phase 3 | AI agents & tool-calling architectures | Planned |
-| Phase 4 | Production AI services & backend APIs | Planned |
+| Phase 1 | HTML, CSS, JS -- ReactJS | In Progress |
+| Phase 2 | -- | TBD |
+| Phase 3 | -- | TBD |
+| Phase 4 | -- | TBD |
 
 ---
 
@@ -44,11 +44,9 @@ The goal is to understand the **engineering layer around AI models** — data in
 
 ## Current Focus
 
-- Building **RAG pipelines**
-- Understanding **vector search and embedding retrieval**
-- Experimenting with **agentic workflows**
-- Developing **backend systems for AI applications**
-
+-  Building
+- Learning
+- 
 ---
 
 ## Philosophy
